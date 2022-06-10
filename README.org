@@ -1,0 +1,6 @@
+#+TITLE: My Doom Config
+#+AUTHOR: Pranav Kesavarapu
+
+* Usage
+Install doom emacs dependencies and follow installed instructions.
+Clone this repo to replace ~$HOME/.doom.d~ rebuild and enjoy
