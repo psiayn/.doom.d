@@ -74,3 +74,5 @@
 ;;
 ;; You can also try 'gd' (or 'C-c c d') to jump to their definition and see how
 ;; they are implemented.
+(setq-default c-basic-offset 2)
+(setq-default cxx-basic-offset 2)
